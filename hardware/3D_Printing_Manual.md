@@ -40,7 +40,7 @@ Return to the preparation view and adjust the settings if the preview reveals a 
 
 ## 4. Send the print
 
-When the sliced preview is satisfactory, select the print menu and choose the appropriate option.
+When the sliced preview is satisfactory, select the print menu and choose the appropriate option.![alt text](image.png)
 
 Depending on the available setup, the sliced file may be:
 

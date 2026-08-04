@@ -6,7 +6,7 @@ This step covers the preparation and printing of the structural drone parts. Ful
 
 There are two options:
 
-- Use the provided STL files in the [hardware/STL/](hardware/STL/) folder. (TBD)
+- Use the provided [files for STL Generation](../hardware/STL/generate_stl.py). (TBD)
 - Design new parts in CAD and export them as STL files.
 
 Designing new parts requires CAD experience, especially when working with meshes or adapting evolved morphologies.
