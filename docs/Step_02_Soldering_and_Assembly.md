@@ -30,7 +30,7 @@ Check the labels printed on the boards and compare them with the wiring diagram 
 ![Flight Controller Layout](../hardware/images/GOKU_GN405_FC.svg)
 ![Raspberry Pi Zero Layout](../hardware/images/Pi_Zero_Layout.svg)
 
-> **Important:** TX and RX must be crossed between devices. The flight-controller TX wire connects to Raspberry Pi RX, and flight-controller RX connects to Raspberry Pi TX. Both devices must share a common ground.
+> **Important:** TX and RX must be crossed between devices. The  flight-controller TX wire connects to Raspberry Pi RX, and flight-controller RX connects to Raspberry Pi TX. Both devices must share a common ground.
 
 ## 3. Prepare a safe soldering workspace
 

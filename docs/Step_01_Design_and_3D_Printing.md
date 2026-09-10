@@ -19,7 +19,7 @@ Before printing, check whether the design is physically usable:
 - motor mounts should provide enough clearance for the propellers;
 - the central plate should provide enough space for the FC/ESC stack;
 - landing legs should provide enough ground clearance;
-- tilted motors may require longer landing legs so the propellers remain above the ground.
+- tilted motors or bigger batteries may require longer landing legs so the landing legs stay touching the ground.
 
 For evolved or unconventional designs, these checks are especially important because small geometry changes can make the vehicle impossible or unsafe to assemble.
 
