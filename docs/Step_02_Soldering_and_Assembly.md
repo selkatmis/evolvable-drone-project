@@ -91,9 +91,16 @@ Four wires were soldered to the selected flight-controller UART and power pads:
 - RX2;
 - TX2.
 
-The opposite ends were soldered to female header connectors so that the Raspberry Pi could later be connected and removed when needed.
+The opposite ends of the wires were female headers such that the Raspberry Pi could later be connected and removed when needed.
 
-Male header pins were soldered to the Raspberry Pi Zero 2 W. Right-angled header pins are preferable when vertical clearance is limited because they reduce cable strain and simplify mounting. Straight headers were used in this project because suitable right-angled headers were unavailable.
+![Female Header Connector](../hardware/images/Female_Connector.svg) 
+
+
+Male header pins were soldered to the Raspberry Pi Zero 2 W. Right-angled header pins are preferable when vertical clearance is limited because they reduce cable strain and prevents obstruction with the battery.: 
+
+![Pin-Header](../hardware/images/Angled_Pin_Header.svg) 
+
+Straight headers were used in this project because suitable right-angled headers were unavailable.
 
 The Raspberry Pi should not yet be connected unless its operating system has already been installed on the SD Card.
 
